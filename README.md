@@ -23,6 +23,6 @@ A simple to-do list application where users can add, edit, and delete tasks.
 ![Add Task Screen](screenshots/add_task_screen.png)
 
 ## Author Information
-- Your Name
-- [Contact Information]
+- Rajat Kumar
+- [2021WA86169]
 
